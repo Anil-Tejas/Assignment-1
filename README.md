@@ -1,2 +1,6 @@
 # Assignment-1
-Python assignment containing Task 1 and Task 2
+Task 1: Perform Basic Mathematical Operations
+This task takes two integer inputs from the user and then performs basic arithmetic like addition, subtraction, multiplication, and division.
+
+Task 2: Create a Personalised Greeting
+This task takes the user's first and last name as input and drafts a custom greeting. 
